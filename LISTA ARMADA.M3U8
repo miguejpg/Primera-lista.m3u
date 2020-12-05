@@ -1,0 +1,12 @@
+#EXTM3U
+#EXTINF:-1,US HBO HD
+https://edge.roku-live.top.comcast.net/out/u/hbo-east_3.m3u8?m=1589266180
+
+#EXTINF:-1,TELEMUNDO
+https://wmaqlive-f.akamaihd.net/i/wmaqb1_1@24420/index_448_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,POP TV
+https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master_1.m3u8
+
+#EXTINF:-1,US SyFy Live
+https://bozztv.com/teleyupp/teleup-syfy/tracks-v1a1/mono.m3u8
